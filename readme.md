@@ -21,6 +21,6 @@ This repository follows best practices aligned with the Odoo 18 framework and ca
 2. Clone it into your Odoo `addons` directory.
 3. Rename the folder and start developing your custom functionality.
 
-# Made with ❤️ and a lot of odoo vibes by Ahosan.
-# Keep me in your valuable prayers.
-# Happy coding, happy Odooing! 🚀
+ Made with ❤️ and a lot of odoo vibes by Ahosan.
+ Keep me in your valuable prayers.
+ Happy coding, happy Odooing! 🚀
