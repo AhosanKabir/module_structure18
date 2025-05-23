@@ -2,16 +2,18 @@
     'name': 'Module Name',
     'version': '18.0.0.1',
     'depends': [],
+    'author': 'Author Name',
+    'co-author': 'Co-Author name',
     'category': '',
+    'website': 'https://company_website_url.com', #if available
+    'license': 'LGPL-3',
+    'sequence': 10,
     'summary': """
         module summary goes to here
     """,
     'description': """
         module details goes to here
     """,
-    'author': 'Author Name',
-    'co-author': 'Co-Author name',
-    'website': 'https://company_website_url.com',
     'data': [
         # 'security/ir.model.access.csv',
         # "views/templates.xml"
@@ -26,6 +28,4 @@
     'installable': True,
     'application': False,
     'auto_install': False,
-    'sequence': 1,
-    'license': 'LGPL-3',
 }
